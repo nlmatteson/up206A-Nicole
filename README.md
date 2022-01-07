@@ -20,6 +20,8 @@ After taking this course, I hope to know how to
 ## Possible research ideas include...
 - Socio-economic impacts of sea level rise in San Diego, CA
 - Extreme heat impacts in Los Angeles, CA
+- Socio-economic impacts of 2021 natural disasters
+- Comparing COVID-19 cases and deaths between California, New York, Florida, and Texas
 - and more!
 
 
