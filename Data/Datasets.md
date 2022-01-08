@@ -14,4 +14,4 @@
 <br>
 **Link to Repo (confirmed cases):** https://github.com/nlmatteson/up206A-Nicole/blob/473b35d3777a9cb53c397749bcbbe010328fb152/Data/covid_confirmed_usafacts.csv
 <br>
-**Link to Repo (deaths):** 
+**Link to Repo (deaths):** https://github.com/nlmatteson/up206A-Nicole/blob/6a8e85c1a1d463e3bcdff468f09114ef5580c896/Data/covid_deaths_usafacts.csv
