@@ -6,3 +6,10 @@
 **Data Source:** https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/ 
 <br>
 **Link to Repo:** https://github.com/nlmatteson/up206A-Nicole/blob/191253dbf59fc73ef5597458bb8f7262494ac0cb/Data/StormEvents_details-ftp_v1.0_d2021_c20211217.csv.gz
+
+### **COVID-19 Cases and Deaths January 2020- January 2022**
+**Description:** These two datasets detail COVID-19 death and confirmed cases by county for each state. I can use this data to compare the death and confirmed cases of California, New York, Florida, and Texas. I can then compare these with respective net-incomes, COVID-19 related policies, and population densities. The purpose would be to explore possible relationships between confirmed cases/deaths and enforced (or absent) COVID-19 policies, population densities, and level of income.
+<br>
+**Data Source:** https://usafacts.org/visualizations/coronavirus-covid-19-spread-map 
+<br>
+**Link to Repo:** 
