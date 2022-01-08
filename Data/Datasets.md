@@ -1,7 +1,7 @@
 # Datasets
 
 ### **2021 U.S. Climate Events**
-**Description:** This data comes from the National Oceanic and Atmospheric Association.
+**Description:** This data comes from the National Oceanic and Atmospheric Association. It provides data on storm event details including: date, location, type, injuries, deaths, damages ($), brief discriptions of event, and more. I can use this data to find the storm events of most significance/serious impacts.
 <br>
 **Data Source:** https://www.ncei.noaa.gov/pub/data/swdi/stormevents/csvfiles/ 
 <br>
